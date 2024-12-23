@@ -45,8 +45,8 @@ Learn about port scanning and threading concepts in Python.
 # Technologies Used
 
 ## Python Libraries:
-socket: For network communication.
-threading: To enable concurrent port scanning.
-tkinter: To build the GUI.
-queue: To manage ports efficiently during multi-threaded operations.
-datetime: For timestamping scan start and end times.
+1. socket: For network communication.
+2. threading: To enable concurrent port scanning.
+3. tkinter: To build the GUI.
+4. queue: To manage ports efficiently during multi-threaded operations.
+5. datetime: For timestamping scan start and end times.
