@@ -4,18 +4,23 @@ This project is an Advanced Port Scanner with a Graphical User Interface (GUI) b
 
 # Key Features
 
-# Graphical Interface:
+## Graphical Interface:
 The user-friendly GUI is built with the tkinter library.
 Includes input fields for target IP address, starting port, and ending port range.
-# Multi-Threaded Scanning:
+
+## Multi-Threaded Scanning:
 The scanner uses multiple threads to handle large port ranges efficiently, reducing scan time significantly.
-Customizable Port Range:
+
+## Customizable Port Range:
 Allows users to specify a range of ports (1-65535) to scan.
-# Real-Time Output:
+
+## Real-Time Output:
 Displays scan progress and results in a scrollable text box for better readability.
-# Error Handling:
+
+## Error Handling:
 Ensures valid input with checks for proper IP address formatting and valid port ranges.
-# Author Acknowledgment:
+
+## Author Acknowledgment:
 Includes a footer label that credits the author: "Made by Yuvraj Singh Rangi".
 
 # -------------------How It Works-------------------
@@ -27,14 +32,19 @@ Includes a footer label that credits the author: "Made by Yuvraj Singh Rangi".
 5. Upon completion, it shows the scan start and end times for reference.
 
 # Use Cases
+
 ## Network Security:
 Identify potential vulnerabilities by detecting open ports that can be exploited.
-Penetration Testing:
+
+## Penetration Testing:
 Analyze the security posture of a system by mapping open ports.
-Educational Tool:
+
+## Educational Tool:
 Learn about port scanning and threading concepts in Python.
-Technologies Used
-Python Libraries:
+
+# Technologies Used
+
+## Python Libraries:
 socket: For network communication.
 threading: To enable concurrent port scanning.
 tkinter: To build the GUI.
