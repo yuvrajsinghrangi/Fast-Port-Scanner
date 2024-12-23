@@ -48,3 +48,7 @@ Learn about port scanning and threading concepts in Python.
 3. tkinter: To build the GUI.
 4. queue: To manage ports efficiently during multi-threaded operations.
 5. datetime: For timestamping scan start and end times.
+
+# Screenshot
+
+<img width="604" alt="Screenshot 2024-12-23 at 4 30 36 PM" src="https://github.com/user-attachments/assets/19c0048c-74e9-48fb-aab9-b6fc27f01ae1" />
