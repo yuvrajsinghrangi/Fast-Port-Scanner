@@ -42,9 +42,7 @@ Analyze the security posture of a system by mapping open ports.
 ## Educational Tool:
 Learn about port scanning and threading concepts in Python.
 
-# Technologies Used
-
-## Python Libraries:
+# Python Libraries:
 1. socket: For network communication.
 2. threading: To enable concurrent port scanning.
 3. tkinter: To build the GUI.
